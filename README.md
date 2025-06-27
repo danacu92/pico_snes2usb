@@ -2,7 +2,7 @@
 # SNES Controller to USB Adapter 
 ## Overview
 
-This project implements an adapter to connect an SNES (Super Nintendo Entertainment System) controller to a computer via USB using a Raspberry Pi Pico (RP2040). The adapter translates SNES controller inputs into USB HID reports like a standard USB gamepad, allowing the controller to be used on modern systems. It was developed in Visual Studio Code with the Raspberry Pi Pico extension and uses the TinyUSB library.
+This project implements an adapter to connect an SNES (Super Nintendo Entertainment System) controller to a computer via USB using a Raspberry Pi Pico (RP2040). The adapter translates SNES controller inputs into USB HID reports like a standard USB gamepad, allowing the controller to be used on modern systems. It was developed in C using Visual Studio Code with the Raspberry Pi Pico extension and uses the TinyUSB library.
 
 ## Requirements
 
@@ -49,7 +49,7 @@ This project implements an adapter to connect an SNES (Super Nintendo Entertainm
 
 ## Descripción General
 
-Este proyecto implementa un adaptador para conectar un control de SNES (Super Nintendo Entertainment System) a una computadora mediante USB utilizando una Raspberry Pi Pico (RP2040). El adaptador traduce las entradas del control SNES en reportes USB HID como un gamepad USB, lo que permite usar el control en sistemas modernos. Fue desarrollado en Visual Studio Code con la extensión Raspberry Pi Pico y utiliza la librería TinyUSB.
+Este proyecto implementa un adaptador para conectar un control de SNES (Super Nintendo Entertainment System) a una computadora mediante USB utilizando una Raspberry Pi Pico (RP2040). El adaptador traduce las entradas del control SNES en reportes USB HID como un gamepad USB, lo que permite usar el control en sistemas modernos. Fue desarrollado en C usando Visual Studio Code con la extensión Raspberry Pi Pico y utiliza la librería TinyUSB.
 
 ## Requisitos
 
